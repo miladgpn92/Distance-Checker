@@ -1,0 +1,1 @@
+C:\Users\Milad\source\repos\Student-Distance-Checker\Student-Distance-Checker\obj\Release\net7.0\browser-wasm\PubTmp\Out\web.config

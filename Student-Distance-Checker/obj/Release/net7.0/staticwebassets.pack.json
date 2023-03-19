@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Milad\\source\\repos\\Student-Distance-Checker\\Student-Distance-Checker\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Milad\\source\\repos\\Student-Distance-Checker\\Student-Distance-Checker\\obj\\Release\\net7.0\\build-gz\\rLyMXjT0.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Milad\\source\\repos\\Student-Distance-Checker\\Student-Distance-Checker\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Milad\\source\\repos\\Student-Distance-Checker\\Student-Distance-Checker\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Student-Distance-Checker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Student-Distance-Checker.props",
+      "PackagePath": "build\\Student-Distance-Checker.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Student-Distance-Checker.props",
+      "PackagePath": "buildMultiTargeting\\Student-Distance-Checker.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Student-Distance-Checker.props",
+      "PackagePath": "buildTransitive\\Student-Distance-Checker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
